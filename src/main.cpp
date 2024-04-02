@@ -1,6 +1,6 @@
 #include "../inc/general.h"
 
-int main(int argc, char **args)
+int main()
 {
     std::cout << "Hello World!" << std::endl;
     return 0;
