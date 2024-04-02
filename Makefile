@@ -6,7 +6,7 @@ LIB		=
 
 CC		= g++
 
-CFLAGS	= -Wall -Werror -Wextra -pendantic
+CFLAGS	= -Wall -Werror -Wextra -pedantic
 
 NAME	= ultraCollector
 
